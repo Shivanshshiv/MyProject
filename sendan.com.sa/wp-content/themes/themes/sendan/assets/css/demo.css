@@ -1,0 +1,11 @@
+.newstape {
+  height: 160px;
+  overflow: hidden;
+}
+.newstape-content {
+  position: relative;
+}
+.newstape-drag { cursor: ns-resize; }
+
+.newstape p{margin-bottom:0;}
+.newstape h5{margin-bottom:0;font-size:14px;font-weight:bold;}

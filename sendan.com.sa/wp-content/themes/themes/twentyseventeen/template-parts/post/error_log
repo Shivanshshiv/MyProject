@@ -1,0 +1,16 @@
+[23-Aug-2022 22:21:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[24-Aug-2022 07:38:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php on line 15
+[24-Aug-2022 15:41:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/post/content-video.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/post/content-video.php on line 15
+[24-Aug-2022 19:54:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php on line 17

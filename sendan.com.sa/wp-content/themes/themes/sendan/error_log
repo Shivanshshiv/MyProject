@@ -1,0 +1,4 @@
+[13-Sep-2022 05:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/crebruns/sendan.com.sa/wp-content/themes/sendan/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/crebruns/sendan.com.sa/wp-content/themes/sendan/index.php on line 17

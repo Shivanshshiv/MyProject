@@ -1,0 +1,8 @@
+[24-Aug-2022 19:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[25-Aug-2022 03:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/crebruns/sendan.com.sa/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
